@@ -1,4 +1,4 @@
-FROM resin/rpi-raspbian:jessie
+
 #amd64:FROM debian:jessie
 
 # install java 8
